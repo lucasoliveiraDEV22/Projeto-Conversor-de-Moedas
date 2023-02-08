@@ -9,10 +9,12 @@
 
 body {
     background: #E9967A;
+    background-image: url('./assets/assets/EUA-Europe.jpg');
+    background-repeat:round;
 }
 
 .container {
-    background: #F4F4F4;
+    background: #f2efef;
     width: 375px;
     margin: 0 auto;
     margin-top: 100px;
